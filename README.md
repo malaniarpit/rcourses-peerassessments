@@ -5,11 +5,12 @@ run_analysis.R is the r script that takes multiple files as input
 
 ## Assumption
 
-```
+
 Data Directory: ~/Downloads/UCI HAR Dataset/ (change first line of run_analysis.R to Dataset)
 
 Directory Structure:
 
+```
 Dataset
 |-- activity_labels.txt
 |-- features_info.txt
